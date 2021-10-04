@@ -12,6 +12,5 @@
 * Nodemon
 * Express
 * JavaScript
-* Cors
 * MySQL
 * Postman
